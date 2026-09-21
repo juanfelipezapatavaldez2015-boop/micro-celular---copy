@@ -1,0 +1,39 @@
+{
+    "name": "micro: celular  - Copy",
+    "version": "20.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "kittenwifi": "github:kittenbot/pxt-kittenwifi#v0.2.7",
+        "radio-broadcast": "*",
+        "power": "github:microbit-foundation/pxt-microbit-v2-power#v0.2.7",
+        "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.33",
+        "pxt-wifi": "github:solderedelectronics/pxt-wifi#v1.1.0",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.10",
+        "pxt-katakana": "github:mbitfun/pxt-katakana#v1.0.16",
+        "microIoT": "github:dfrobot/pxt-dfrobot-microiot#v1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable8.0",
+        "tag": "v8.0.18",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/ec67ee1ad9a7c41ee95376e7577127b32d4d233a",
+        "target": "9.0.12",
+        "pxt": "12.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
