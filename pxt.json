@@ -1,6 +1,6 @@
 {
     "name": "micro: celular  - Copy",
-    "version": "20.0.0",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
